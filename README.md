@@ -1,7 +1,7 @@
 # Desafio de arquitetura
 
 
-#### Este desafio está relacionado ao artigo [Arquiteturas de software](https://medium.com/p/a4c55749a7eb/edit) publicado no [medium](https://medium.com/). Caso não tenha lido ou esteja buscando enriquecer seu repertório sobre o assunto, sugiro fortemente a leitura antes de embarcar nesse desafio.
+#### Este desafio está relacionado ao artigo [Arquiteturas de software](https://fabriciodezain.wordpress.com/2021/02/01/arquiteturas-de-software/) publicado no [medium](https://medium.com/). Caso não tenha lido ou esteja buscando enriquecer seu repertório sobre o assunto, sugiro fortemente a leitura antes de embarcar nesse desafio.
 
 
 # Motivação
